@@ -1,0 +1,16 @@
+<serialization>
+    <map>
+        <key>
+            <element val="false"/>
+            <element val="false"/>
+            <element val="true"/>
+        </key>
+        <value val="ans=1"/>
+        <key>
+            <element val="false"/>
+            <element val="true"/>
+            <element val="false"/>
+        </key>
+        <value val="ans=2"/>
+    </map>
+</serialization>

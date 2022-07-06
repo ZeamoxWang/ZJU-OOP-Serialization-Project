@@ -1,0 +1,12 @@
+<serialization>
+    <pair>
+        <first val="97"/>
+        <second>
+            <element val="1"/>
+            <element val="3"/>
+            <element val="5"/>
+            <element val="7"/>
+            <element val="9"/>
+        </second>
+    </pair>
+</serialization>

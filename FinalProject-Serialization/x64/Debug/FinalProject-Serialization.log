@@ -1,0 +1,45 @@
+﻿  BinarySerialization.cpp
+  main.cpp
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\main.cpp(41,16): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\main.cpp(173,16): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\utility(190,1): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\main.cpp(132): message : 查看对正在编译的函数 模板 实例化“std::pair<const std::string,float>::pair<const char(&)[2],double,0>(_Other1,_Other2 &&) noexcept(false)”的引用
+          with
+          [
+              _Other1=const char (&)[2],
+              _Other2=double
+          ]
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\main.cpp(132): message : 查看对正在编译的函数 模板 实例化“std::pair<const std::string,float>::pair<const char(&)[2],double,0>(_Other1,_Other2 &&) noexcept(false)”的引用
+          with
+          [
+              _Other1=const char (&)[2],
+              _Other2=double
+          ]
+  Object.cpp
+  tinyxml2.cpp
+  XMLSerialization.cpp
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.cpp(96,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.cpp(101,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<int>”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<float>”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<__int64>”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<bool>”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<double>”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<char>”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<std::set<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<std::vector<bool,std::allocator<bool> > >”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<std::list<int,std::allocator<int> > >”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<std::pair<char,std::vector<int,std::allocator<int> > > >”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<std::map<std::list<bool,std::allocator<bool> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::less<std::list<bool,std::allocator<bool> > >,std::allocator<std::pair<std::list<bool,std::allocator<bool> > const ,std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > > >”: 不是所有的控件路径都返回值
+C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\FinalProject-Serialization\XMLSerialization.h(548): warning C4715: “XMLSerialization::deserialize_xml<UserDefinedType>”: 不是所有的控件路径都返回值
+  FinalProject-Serialization.vcxproj -> C:\Users\Zeamox Wang\source\repos\FinalProject-Serialization\x64\Debug\FinalProject-Serialization.exe

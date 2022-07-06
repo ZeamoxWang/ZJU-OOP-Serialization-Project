@@ -1,0 +1,17 @@
+<serialization>
+    <UserDefinedType>
+        <member val="5"/>
+        <member val="ook"/>
+        <member>
+            <element val="2.2999999999999998"/>
+            <element val="4.2999999999999998"/>
+            <element val="5.4000000000000004"/>
+        </member>
+        <member>
+            <key val="1"/>
+            <value val="1.3200001"/>
+            <key val="2"/>
+            <value val="2.4300001"/>
+        </member>
+    </UserDefinedType>
+</serialization>
